@@ -1,0 +1,51 @@
+*{
+    color:gold
+}
+
+p,span {
+    color: red;
+    width: 300px;
+}
+/**
+Esto es un comentario dentro de un documento de CSS, abajo agregué font family
+*/
+h1 {
+    font-family: 'Playfair Display', serif;
+    border: 1px solid;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+    color: grey;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-weight: bold;
+    color: blueviolet;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+#mi_parrafo {
+    color: blueviolet;
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+section h3 {
+    font-weight: 400;
+    color: black;
+}
