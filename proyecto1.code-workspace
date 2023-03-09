@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "../cv"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "proyecto"
+		"liveServer.settings.multiRootWorkspaceName": "cv"
 	}
 }
