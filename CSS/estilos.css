@@ -1,0 +1,334 @@
+*{  
+    margin: 0px;
+    padding:0px;
+    color:black;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', castoro;
+}
+
+div#general{
+    /*margin:auto;*/
+    margin-top:0px;
+    width: 100%;
+    height:2500px;    
+    text-align: center;
+    background-image: url(../imagen/fondo1.png); 
+    background-attachment: fixed;
+    background-repeat: repeat;
+    }
+
+div#aptitudes{
+    float: right;
+    margin:0;
+    margin-top:0px;
+    width:300px;
+    height:2296px;
+    background-color: rgba(255, 255, 255, 0.509)
+    
+    }
+.imgRedonda {
+        width:245px;
+        height:245px;
+        border-radius:123px;
+}
+
+div#encabezado1{
+    float:left;
+    margin:auto;
+    width:963px;
+    height:130px;
+    background-color: #95b6dcb8;
+    }
+
+
+div#subt{
+    float:none;
+    padding-top: 2cm;
+    margin-left: 100px;
+    width:800px;
+    height:200px;    
+    
+    font-family: 'Playfair Display', castoro;
+               
+            }        
+
+ul#vinetas{
+    margin-left:10;
+    margin-top:20px;   
+    text-align:left;
+    font-size: medium;
+    font-weight: 400;
+    }
+ul#v2{
+        margin-left:10;
+        margin-bottom: 52px;
+        text-align:left;
+        font-size: medium;
+        font-weight: 400;
+        text-align: justify;
+    }
+
+div#imagen{
+    margin:0;
+    margin-top:60px;
+    width:300px;
+    height:300px;    
+        }
+p{
+    color: black;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p#quiensoy{
+    color: black;
+    width: auto;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p#f1{
+    color: rgb(44, 43, 43);
+    font-style: oblique;
+    width: 170px;
+    text-align: left;
+    margin-bottom: 340px;
+}
+p#f2{
+    color: rgb(44, 43, 43);
+    font-style: oblique;
+    width: 170px;
+    text-align: left;
+    margin-bottom: 260px;
+}
+
+p#f3{
+    color: rgb(44, 43, 43);
+    font-style: oblique;
+    width: 170px;
+    text-align: left;
+    margin-bottom: 80px;
+}
+p#f4{
+    color: rgb(44, 43, 43);
+    font-style: oblique;
+    width: 170px;
+    text-align: left;
+    margin-bottom: 80px;
+}
+p#t1{
+    color: rgb(44, 43, 43);
+    font-style: oblique;
+    width: 170px;
+    text-align: left;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+
+p#t2{
+    color: black;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+p#contact{
+    width: 245px;
+    font-weight: 800;
+    font-size:x-large;
+}
+p#contac{
+    width: 1000px;
+    text-align: left;
+    background-color:rgba(255, 255, 255, 0.863);
+
+}
+p#contacto{
+    width: 245px;
+    text-align: left;
+}
+.eventos{
+    padding-top: 0px;
+    text-align: justify;
+    }
+
+.fechas{
+    color: rgb(44, 43, 43);
+    font-style: oblique;
+    width: 170px;
+    text-align: left;
+}
+
+.caract{
+    
+    width: 250px;
+    float:left;
+    margin-left: 30px;
+}
+
+    
+div#ref{
+    background-color: #95b6dcd9;
+    height: 150px;
+    width: 1200px;
+    float: left;
+    
+}
+.contacto{
+    border:solid;
+    border-width: 10px;
+    border-style: groove;
+    border-color: rgba(101, 102, 105, 0.493);
+    width: 250px;
+    float: left;
+    margin-left: 30px;
+    background-color: white;
+    
+}
+div#cuerpo1{
+    margin-left: 31px;
+    width: 900px;
+    background-color:rgba(255, 255, 255, 0.863);
+    text-align: justify;
+    font-family: 'Playfair Display', castoro;
+}
+
+div#cuerpo2{
+    margin-top: 70px;
+    margin-left: 31px;
+    width: 900px;
+    background-color:rgba(255, 255, 255, 0.863);
+    text-align: justify;
+    font-family: 'Playfair Display', castoro;
+    height: 310px;
+}
+div#cuerpo3{
+    
+    margin-left: 31px;
+    width: 900px;
+    background-color:rgba(255, 255, 255, 0.863);
+    text-align: justify;
+    font-family: 'Playfair Display', castoro;
+    height: 1380px;
+    float:left;
+
+}
+h1 {
+    font-family: 'Playfair Display', castoro;
+    
+    font-weight: bold;
+    color:white;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Playfair Display', castoro;
+    font-weight: bold;
+    color:white;
+    margin-top: 20px;
+    text-align: center;
+    font-size:x-large;
+    padding-bottom: 1px;
+}
+
+h3 {
+    font-weight: 600;
+    color: black;
+    font-size: large;
+    padding-top: 30px;
+    
+}
+
+
+h4{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-weight: 600;    
+}
+
+h5{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 800;
+    font-size: large;
+    font-style: oblique;
+}
+
+h6{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+}
+
+p#ref{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+    color: white;
+    font-weight: 300;
+}
+
+p#reff{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+    color: white;
+    font-weight: 300;
+    text-align: left;
+}
+
+h7{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 600;
+    font-size: medium;
+    font-style: oblique;
+}
+
+#contenedor {
+    text-align: left;
+    width: 100%;
+    margin: auto;
+   }
+   
+   #lateral {
+    width: 20%;  /* Este será el ancho que tendrá tu columna */
+    float:right; /* Aquí determinas de lado quieres quede esta "columna" */
+   }
+   
+   #principal {
+    width: 75%;
+    float: left;
+         /* ponemos un donde para que se vea bonito */
+   }
+
+   /* Para limpiar los floats */
+   .clearfix:after {
+     content: "";
+     display: table;
+     clear: both;
+   }
+
+   
