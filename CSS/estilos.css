@@ -16,7 +16,18 @@ div#general{
     background-attachment: fixed;
     background-repeat: repeat;
     }
-
+    .botton {
+ 
+        font-size: 1 em;
+        cursor: pointer;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #5D5D9B;
+        border: 1px solid #222;
+        border-radius: 0;
+        align-items: center;
+       
+      }
 div#aptitudes{
     float: right;
     margin:0;
@@ -184,6 +195,15 @@ div#ref{
     width: 1200px;
     float: left;
     
+    
+}
+#boton{
+    align-items:end;
+    width: 200px;
+    height: 50px;
+    background-color: rgba(224, 162, 186, 0.454);
+    margin-left: 500px;
+    margin-top: 20px;
 }
 .contacto{
     border:solid;
